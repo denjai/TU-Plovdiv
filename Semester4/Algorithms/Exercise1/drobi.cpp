@@ -1,4 +1,3 @@
-```cpp
 // programa 1.cpp : Defines the entry point for the console application.
 //
 
@@ -52,4 +51,3 @@ int main() {
 	system("Pause");
 	return 0;
 }
-```
