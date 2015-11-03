@@ -1,0 +1,11 @@
+﻿Build started 26.4.2014 г. 17:13:11 ч..
+     1>Project "C:\Users\DAEMON\Documents\Visual Studio 2012\Projects\app1\app1\app1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         G:\PROGRAMS\VS 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\app1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt app1.cpp
+         app1.cpp
+     1>c:\users\daemon\documents\visual studio 2012\projects\app1\app1\app1.cpp(5): fatal error C1083: Cannot open include file: 'mpi.h': No such file or directory
+     1>Done Building Project "C:\Users\DAEMON\Documents\Visual Studio 2012\Projects\app1\app1\app1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.76
