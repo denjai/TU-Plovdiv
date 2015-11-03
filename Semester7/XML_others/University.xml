@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<University>
+	<group>42</group>
+		<name>
+			<student>
+				<name>Kristiqn</name>
+				<fam>Stamov</fam>
+				<deptID>55566</deptID>
+			</student>
+		</name>
+	<Lection>
+		<Prof>
+			<name>Atanas</name>
+			<fam>Kostadinov</fam>
+			<EGN>5566698874</EGN>
+		</Prof>
+		<Specialty>KST</Specialty>
+		<semester>2</semester>
+		<group>42</group>
+	</Lection>
+	
+</University>

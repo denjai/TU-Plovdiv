@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Library (book+,CD+)>
+<!ELEMENT book (name, author+,ISBN,pages,price)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT author ( name,  fam )
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT fam (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT pages (#PCDATA)>
+<!ELEMENT price (#PCDATA)>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+		<book genre="fantaqstica">
+			<name>The hobbit</name>
+			<author>
+				<name>Burziq</name>
+				<fam> Djo </fam>
+			</author>
+			<ISBN>12-GT-87-665</ISBN>
+			<pages>387</pages>
+			<price>29.65</price>
+		</book>
+		<CD>
+			<name>Prikazki</name>
+			<ISBN>234-KJ-645</ISBN>
+			<price>65.98</price>
+			<song Num= "1">
+				<name>Chervenata shapchica</name>
+				<artist>	
+					<name>uknown</name>
+					<fam>uknown</fam>
+				</artist>
+				
+			</song>
+			<song Num= "2">
+				<name>Snejanka</name>
+				<artist>	
+					<name>uknown</name>
+					<fam>uknown</fam>
+				</artist>
+				
+			</song>
+		</CD>
+		<CD>
+			<name>Classic music</name>
+			<ISBN>234-KJ-698</ISBN>
+			<price>66.66</price>
+			<song Num= "2">
+				<name>Symphonia</name>
+				<artist>	
+					<name>uknown</name>
+					<fam>uknown</fam>
+				</artist>	
+			</song>
+			</CD>
+</Library>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Telbook>
+	<person>
+		<name>ME</name>
+		<family>Todorov</family>
+		<phone>
+			<type>GSM</type>
+			<number>0897898768</number>
+		</phone>
+	</person>
+</Telbook>

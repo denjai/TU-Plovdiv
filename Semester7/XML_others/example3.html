@@ -1,0 +1,34 @@
+<style>
+	a.hello{
+	font-weight:bold;
+	}
+	#content{
+	color:red;
+	}
+	body{
+	background:#e62;
+	}
+	</style>
+<html>
+	<head>
+	<title>JQuery Example</title>
+	<script type = "text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"> </script>
+	<script type = "text/javascript">
+		$(document).ready(function() {
+			$(document).on('click', 'a.hello', function(e) {
+				$('#content').html('Heelo World');
+				return false;
+			});
+		});
+	</script>
+	</head>
+	<body>
+	<h1 id='content'></h1>
+		<a href="#" class="hello">Click Me</a>
+		<a href="#" class="hello">Click Me1</a>
+		<a href="#" class="hello">Click Me2</a>
+		<a href="#" class="hello">Click Me3</a>
+		<a href="#" class="hello">Click Me4</a>
+		
+	</body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+	<book>
+		<name>kniga1</name>
+		<author>
+			<name>georgi</name>
+			<mid.>georgiev</mid.>
+			<fam.>georgiev</fam.>
+		</author>
+		<ISBN>125HG54GG</ISBN>
+		<pages>2555</pages>
+		<price>155.55</price>
+	</book>
+	<Cd>
+		<name>Nice songs</name>
+		<ISBN>454555HFDF</ISBN>
+		<price>20.50</price>
+		<song>
+			<name>Y here</name>
+			<artist>
+				<name>Penjo</name>
+				<fam>-----</fam>
+			</artist>
+			
+		</song>
+	</Cd>
+</Library>

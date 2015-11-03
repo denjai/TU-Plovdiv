@@ -1,0 +1,20 @@
+<html>
+	<head>
+	<title>JS Example</title>
+	
+	</head>
+	<body>
+	<h1 id='content'></h1>
+		<a href="#" onclick="make_dom_change();">Click Me</a>
+		<script type="text/javascript">
+		function make_dom_change()
+		{
+			var e = document.getElementById('content');
+			console.log(e);
+			e.innerHTML = 'Hello World!';
+			console.log(e.innerHTLM);
+		}
+		
+	</script>
+	</body>
+</html>

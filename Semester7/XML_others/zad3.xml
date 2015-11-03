@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Uni xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\DOCUME~1\XMLTEC~1\Desktop\XML\uni.xsd">
+	<StudentGroup>
+		<Name>
+			<Student>
+				<name>Ivan</name>
+				<fam>Petrov</fam>
+				<deptID>123</deptID>
+			</Student>
+		</Name>
+		<Lection>
+			<Prof>
+				<name>Gosho</name>
+				<fam>Genchev</fam>
+				<EGN>8899887766</EGN>
+			</Prof>
+			<subject>XML technologies</subject>
+			<semester>leten</semester>
+			<group>42</group>
+		</Lection>
+	</StudentGroup>
+</Uni>
